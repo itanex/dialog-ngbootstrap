@@ -1,5 +1,9 @@
 # DialogNgbootstrap
 
+This project demonstrates a ngBootstrap modal service call using a dynamic component to create a dialog window 65vh x 100vh mounted on the right side of the screen
+
+## Notes
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
